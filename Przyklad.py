@@ -1,1 +1,1 @@
-print("zmiana Ewy")
+print("zmianaEwy")
