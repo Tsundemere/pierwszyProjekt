@@ -1,1 +1,1 @@
-J, (tu imię i nazwisko), będę teraz solidnie pracował w projektach, gdyż moje zaangażowanie jest mierzone przez wysłane przeze mnie commity
+Jaaa, (tu imię i nazwisko), będę teraz solidnie pracował w projektach, gdyż moje zaangażowanie jest mierzone przez wysłane przeze mnie commity
